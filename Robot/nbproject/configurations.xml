@@ -1,0 +1,2805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="89">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+      <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/projet_initial/fonctions.c</itemPath>
+      <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/projet_initial/fonctions.h</itemPath>
+      <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/projet_initial/global.c</itemPath>
+      <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/projet_initial/global.h</itemPath>
+      <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/projet_initial/includes.h</itemPath>
+      <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/projet_initial/main.c</itemPath>
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <logicalFolder name="lib_destijl" displayName="lib_destijl" projectFiles="true">
+        <logicalFolder name="doc" displayName="doc" projectFiles="true">
+          <logicalFolder name="html" displayName="html" projectFiles="true">
+            <logicalFolder name="search" displayName="search" projectFiles="true">
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_61.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_61.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_62.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_62.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_63.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_63.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_64.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_64.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_66.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_66.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_67.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_67.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_68.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_68.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_69.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_69.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_6c.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_6c.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_6d.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_6d.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_6f.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_6f.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_70.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_70.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_72.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_72.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_73.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_73.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_74.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_74.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_78.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_78.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_79.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_79.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/classes_64.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/classes_64.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/close.png</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_61.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_61.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_62.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_62.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_64.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_64.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_68.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_68.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_6d.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_6d.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_73.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_73.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/files_64.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/files_64.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/functions_64.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/functions_64.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/mag_sel.png</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/nomatches.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/search.css</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/search.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/search_l.png</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/search_m.png</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/search_r.png</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/typedefs_64.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/typedefs_64.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_61.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_61.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_62.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_62.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_63.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_63.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_64.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_64.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_66.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_66.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_67.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_67.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_69.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_69.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_6c.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_6c.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_6d.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_6d.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_6f.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_6f.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_70.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_70.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_72.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_72.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_73.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_73.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_74.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_74.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_78.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_78.js</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_79.html</itemPath>
+              <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_79.js</itemPath>
+            </logicalFolder>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/annotated.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/annotated.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/bc_s.png</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/classes.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/closed.png</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/daction_8h.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/daction_8h.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/daction_8h_source.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/darena_8h.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/darena_8h.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/darena_8h_source.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dbattery_8h.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dbattery_8h.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dbattery_8h_source.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dcamera_8h.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dcamera_8h.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dcamera_8h_source.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dconstantes_8h.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dconstantes_8h.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dconstantes_8h_source.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dimage_8h.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dimage_8h.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dimage_8h_source.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dimageshop_8h.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dimageshop_8h.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dimageshop_8h_source.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dincludes_8h_source.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/djpegimage_8h.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/djpegimage_8h.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/djpegimage_8h_source.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dmessage_8h.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dmessage_8h.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dmessage_8h_source.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dmission_8h.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dmission_8h.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dmission_8h_source.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dmovement_8h.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dmovement_8h.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dmovement_8h_source.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/doxygen.css</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/doxygen.png</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dposition_8h.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dposition_8h.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dposition_8h_source.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/drobot_8h_source.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dserver_8h.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dserver_8h.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dserver_8h_source.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dtools_8h.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dtools_8h.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dtools_8h_source.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/files.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/files.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2blank.png</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2doc.png</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2folderclosed.png</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2folderopen.png</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2lastnode.png</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2link.png</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2mlastnode.png</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2mnode.png</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2node.png</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2plastnode.png</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2pnode.png</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2splitbar.png</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2vertline.png</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/functions.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/functions_vars.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/globals.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/globals_defs.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/globals_func.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/globals_type.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/index.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/installdox</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/jquery.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/nav_f.png</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/nav_h.png</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/navtree.css</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/navtree.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/navtreeindex.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/open.png</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/resize.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_action.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_action.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_arena.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_arena.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_battery.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_battery.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_camera.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_camera.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_image.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_image.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_jpegimage.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_jpegimage.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_message.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_message.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_mission.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_mission.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_movement.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_movement.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_position.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_position.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_robot.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_robot.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_server.html</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_server.js</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/tab_a.png</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/tab_b.png</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/tab_h.png</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/tab_s.png</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/tabs.css</itemPath>
+          </logicalFolder>
+          <logicalFolder name="latex" displayName="latex" projectFiles="true">
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/latex/Makefile</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/latex/doxygen.sty</itemPath>
+            <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/latex/refman.tex</itemPath>
+          </logicalFolder>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/Doxyfile</itemPath>
+        </logicalFolder>
+        <logicalFolder name="headers" displayName="headers" projectFiles="true">
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/daction.h</itemPath>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/darena.h</itemPath>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dbattery.h</itemPath>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dcamera.h</itemPath>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dconstantes.h</itemPath>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dimage.h</itemPath>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dimageshop.h</itemPath>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dincludes.h</itemPath>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/djpegimage.h</itemPath>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dmessage.h</itemPath>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dmission.h</itemPath>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dmovement.h</itemPath>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dposition.h</itemPath>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/drobot.h</itemPath>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dserver.h</itemPath>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dtools.h</itemPath>
+        </logicalFolder>
+        <logicalFolder name="source" displayName="source" projectFiles="true">
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/daction.c</itemPath>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/darena.c</itemPath>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dbattery.c</itemPath>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dcamera.c</itemPath>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dimage.c</itemPath>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dimageshop.c</itemPath>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/djpegimage.c</itemPath>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dmessage.c</itemPath>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dmission.c</itemPath>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dmouvement.c</itemPath>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dposition.c</itemPath>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/drobot.c</itemPath>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dserver.c</itemPath>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dtools.c</itemPath>
+          <itemPath>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/includes_lib.h</itemPath>
+        </logicalFolder>
+      </logicalFolder>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>headers</Elem>
+    <Elem>source</Elem>
+    <Elem>projet_destijl_2014/lib_destijl</Elem>
+    <Elem>/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <incDir>
+            <pElem>../projet_destijl_2014/xenomai/include</pElem>
+          </incDir>
+        </cTool>
+        <ccTool>
+          <incDir>
+            <pElem>../projet_destijl_2014/xenomai/include</pElem>
+          </incDir>
+        </ccTool>
+        <linkerTool>
+          <linkerAddLib>
+            <pElem>../projet_destijl_2014/xenomai/lib</pElem>
+          </linkerAddLib>
+          <commandLine>-lopencv_core -lopencv_highgui -lopencv_imgproc -lxenomai -lnative</commandLine>
+        </linkerTool>
+      </compileType>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/Doxyfile"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/annotated.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/annotated.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/bc_s.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/classes.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/closed.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/daction_8h.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/daction_8h.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/daction_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/darena_8h.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/darena_8h.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/darena_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dbattery_8h.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dbattery_8h.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dbattery_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dcamera_8h.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dcamera_8h.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dcamera_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dconstantes_8h.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dconstantes_8h.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dconstantes_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dimage_8h.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dimage_8h.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dimage_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dimageshop_8h.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dimageshop_8h.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dimageshop_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dincludes_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/djpegimage_8h.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/djpegimage_8h.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/djpegimage_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dmessage_8h.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dmessage_8h.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dmessage_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dmission_8h.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dmission_8h.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dmission_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dmovement_8h.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dmovement_8h.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dmovement_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/doxygen.css"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/doxygen.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dposition_8h.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dposition_8h.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dposition_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/drobot_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dserver_8h.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dserver_8h.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dserver_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dtools_8h.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dtools_8h.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dtools_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/files.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/files.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2blank.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2doc.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2folderclosed.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2folderopen.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2lastnode.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2link.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2mlastnode.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2mnode.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2node.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2plastnode.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2pnode.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2splitbar.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2vertline.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/functions.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/functions_vars.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/globals.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/globals_defs.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/globals_func.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/globals_type.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/index.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/installdox"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/jquery.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/nav_f.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/nav_h.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/navtree.css"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/navtree.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/navtreeindex.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/open.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/resize.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_61.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_61.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_62.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_62.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_63.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_63.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_64.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_64.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_66.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_66.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_67.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_67.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_68.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_68.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_69.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_69.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_6c.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_6c.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_6d.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_6d.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_6f.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_6f.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_70.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_70.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_72.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_72.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_73.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_73.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_74.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_74.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_78.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_78.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_79.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_79.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/classes_64.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/classes_64.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/close.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_61.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_61.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_62.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_62.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_64.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_64.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_68.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_68.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_6d.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_6d.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_73.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_73.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/files_64.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/files_64.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/functions_64.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/functions_64.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/mag_sel.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/nomatches.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/search.css"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/search.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/search_l.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/search_m.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/search_r.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/typedefs_64.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/typedefs_64.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_61.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_61.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_62.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_62.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_63.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_63.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_64.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_64.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_66.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_66.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_67.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_67.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_69.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_69.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_6c.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_6c.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_6d.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_6d.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_6f.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_6f.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_70.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_70.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_72.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_72.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_73.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_73.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_74.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_74.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_78.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_78.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_79.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_79.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_action.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_action.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_arena.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_arena.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_battery.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_battery.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_camera.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_camera.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_image.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_image.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_jpegimage.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_jpegimage.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_message.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_message.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_mission.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_mission.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_movement.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_movement.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_position.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_position.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_robot.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_robot.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_server.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_server.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/tab_a.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/tab_b.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/tab_h.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/tab_s.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/tabs.css"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/latex/Makefile"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/latex/doxygen.sty"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/latex/refman.tex"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/daction.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/darena.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dbattery.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dcamera.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dconstantes.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dimage.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dimageshop.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dincludes.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/djpegimage.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dmessage.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dmission.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dmovement.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dposition.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/drobot.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dserver.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dtools.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/daction.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/darena.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dbattery.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dcamera.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dimage.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dimageshop.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/djpegimage.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dmessage.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dmission.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dmouvement.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dposition.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/drobot.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dserver.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dtools.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/includes_lib.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/projet_initial/fonctions.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/projet_initial/fonctions.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/projet_initial/global.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/projet_initial/global.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/projet_initial/includes.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/projet_initial/main.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/Doxyfile"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/annotated.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/annotated.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/bc_s.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/classes.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/closed.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/daction_8h.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/daction_8h.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/daction_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/darena_8h.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/darena_8h.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/darena_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dbattery_8h.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dbattery_8h.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dbattery_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dcamera_8h.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dcamera_8h.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dcamera_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dconstantes_8h.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dconstantes_8h.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dconstantes_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dimage_8h.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dimage_8h.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dimage_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dimageshop_8h.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dimageshop_8h.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dimageshop_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dincludes_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/djpegimage_8h.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/djpegimage_8h.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/djpegimage_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dmessage_8h.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dmessage_8h.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dmessage_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dmission_8h.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dmission_8h.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dmission_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dmovement_8h.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dmovement_8h.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dmovement_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/doxygen.css"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/doxygen.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dposition_8h.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dposition_8h.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dposition_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/drobot_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dserver_8h.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dserver_8h.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dserver_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dtools_8h.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dtools_8h.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/dtools_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/files.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/files.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2blank.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2doc.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2folderclosed.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2folderopen.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2lastnode.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2link.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2mlastnode.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2mnode.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2node.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2plastnode.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2pnode.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2splitbar.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/ftv2vertline.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/functions.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/functions_vars.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/globals.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/globals_defs.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/globals_func.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/globals_type.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/index.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/installdox"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/jquery.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/nav_f.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/nav_h.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/navtree.css"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/navtree.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/navtreeindex.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/open.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/resize.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_61.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_61.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_62.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_62.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_63.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_63.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_64.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_64.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_66.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_66.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_67.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_67.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_68.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_68.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_69.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_69.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_6c.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_6c.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_6d.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_6d.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_6f.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_6f.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_70.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_70.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_72.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_72.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_73.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_73.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_74.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_74.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_78.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_78.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_79.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/all_79.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/classes_64.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/classes_64.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/close.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_61.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_61.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_62.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_62.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_64.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_64.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_68.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_68.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_6d.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_6d.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_73.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/defines_73.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/files_64.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/files_64.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/functions_64.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/functions_64.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/mag_sel.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/nomatches.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/search.css"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/search.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/search_l.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/search_m.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/search_r.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/typedefs_64.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/typedefs_64.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_61.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_61.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_62.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_62.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_63.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_63.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_64.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_64.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_66.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_66.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_67.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_67.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_69.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_69.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_6c.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_6c.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_6d.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_6d.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_6f.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_6f.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_70.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_70.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_72.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_72.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_73.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_73.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_74.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_74.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_78.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_78.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_79.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/search/variables_79.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_action.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_action.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_arena.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_arena.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_battery.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_battery.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_camera.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_camera.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_image.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_image.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_jpegimage.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_jpegimage.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_message.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_message.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_mission.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_mission.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_movement.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_movement.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_position.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_position.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_robot.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_robot.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_server.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/struct_d_server.js"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/tab_a.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/tab_b.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/tab_h.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/tab_s.png"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/html/tabs.css"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/latex/Makefile"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/latex/doxygen.sty"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/doc/latex/refman.tex"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/daction.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/darena.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dbattery.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dcamera.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dconstantes.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dimage.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dimageshop.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dincludes.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/djpegimage.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dmessage.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dmission.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dmovement.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dposition.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/drobot.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dserver.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/headers/dtools.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/daction.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/darena.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dbattery.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dcamera.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dimage.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dimageshop.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/djpegimage.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dmessage.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dmission.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dmouvement.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dposition.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/drobot.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dserver.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/dtools.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/lib_destijl/source/includes_lib.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/projet_initial/fonctions.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/projet_initial/fonctions.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/projet_initial/global.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/projet_initial/global.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/projet_initial/includes.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="/home/recoules/Temps-Reel/projet_destijl_2014/projet_initial/main.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
